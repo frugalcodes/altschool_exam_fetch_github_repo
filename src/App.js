@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css';
 import Home from './components/Home';
 import ErrorBoundary from './ErrorBoundary';
-import Errornow from "./Errornow"
+
 
 
 import Results from './components/Results';
