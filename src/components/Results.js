@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import {format} from 'date-fns'
+
 import { Link, useParams } from "react-router-dom";
 import moment from 'moment/moment';
 
@@ -80,7 +80,7 @@ const Results = () => {
          <div className="mt-5 flex items-center justify-between text-right">
            <a 
            className="underline text-sm"
-           href={RepoData.html_url} target="_blank" rel='noreferrer'>View RepoData</a>
+           href={RepoData.html_url} target="_blank" rel='noreferrer'>View Repo on Github</a>
 
            <ul>
              <li>{RepoData.stargazers_count.toLocaleString()} stars</li>
