@@ -1,10 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css';
 import Home from './components/Home';
-import ErrorBoundary from './ErrorBoundary';
-
-
-
 import Results from './components/Results';
 
 function App() {
@@ -14,7 +10,6 @@ function App() {
     <BrowserRouter>
     
     <div className="App">
-    <ErrorBoundary>
     
        <section className='pt-10 pb-20'>
        <h1 className='text-2xl font-bold'>List of Frugalcodes Github Repositories</h1>
@@ -26,7 +21,7 @@ function App() {
         <Route path='/:id'  element={<Results />}/>
        
         </Routes>
-        </ErrorBoundary>
+       
     </div>
     
     </BrowserRouter>
