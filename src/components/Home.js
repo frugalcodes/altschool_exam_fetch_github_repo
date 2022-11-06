@@ -6,6 +6,7 @@ import ReactPaginate from 'react-paginate';
 
 const Home = () => {
 
+  
     useEffect(() => {
 
         FetchRepos()

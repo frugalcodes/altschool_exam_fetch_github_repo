@@ -32,11 +32,12 @@ const Results = () => {
        
   const FetchRepo = async () => {
     
-    const data = await fetch(`https:api.github.com/repos/Frugalcodes/${id}`)   
+    
+    const data = await fetch(`https://api.github.com/repos/Frugalcodes/${id}`)   
     const RepoData = await data.json()
     
     setRepoData(RepoData)
-    console.log (RepoData)
+   
     
   }
      
