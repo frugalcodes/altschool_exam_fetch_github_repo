@@ -23,7 +23,7 @@ function App() {
       
         <Route path='/' exact element={<Home />} />
       
-        <Route path='/:id' exact element={<Results />}/>
+        <Route path='/:id'  element={<Results />}/>
        
         </Routes>
         </ErrorBoundary>
