@@ -1,13 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="Github Repository Fetch App"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -79,7 +72,7 @@ This Project Use Github api to fetch the repository information of Frugalcodes
 
 
 
-* [![React][React.js]][React-url]
+* REACTJS
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,7 +86,7 @@ This Project Use Github api to fetch the repository information of Frugalcodes
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
 
 1. Get a free API Key at [https://docs.github.com/en/rest/overview]https://docs.github.com/en/rest/overview)
 2. Clone the repo
@@ -116,13 +109,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://api.github.com/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-    - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -167,7 +158,7 @@ Project Link: [https://github.com/frugalcodes/altschool_exam_fetch_github_repo](
 
 * [Github Api](https://docs.github.com/en/rest)
 
-* [React Icons](https://thealtschool.com/)
+* [Altschool](https://thealtschool.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
