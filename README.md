@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/frugalcodes) - email@example.com
+Your Name - [@Frugalcodes](https://twitter.com/frugalcodes) - email@example.com
 
 Project Link: [https://github.com/frugalcodes/altschool_exam_fetch_github_repo](https://github.com/frugalcodes/altschool_exam_fetch_github_repo/)
 
