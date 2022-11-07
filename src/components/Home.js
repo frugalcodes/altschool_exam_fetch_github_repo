@@ -18,9 +18,9 @@ const Home = () => {
        const [pageNumber, setPageNumber] = useState(0);
 
        const usersPerPage = 6;
-  const pagesVisited = pageNumber * usersPerPage;
+      const pagesVisited = pageNumber * usersPerPage;
 
-  const DisplayUsers = ReposData.slice(pagesVisited, pagesVisited + usersPerPage).map((repo) => {
+      const DisplayUsers = ReposData.slice(pagesVisited, pagesVisited + usersPerPage).map((repo) => {
   
   return (
              
