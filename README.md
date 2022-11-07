@@ -87,8 +87,6 @@ This Project Use Github api to fetch the repository information of Frugalcodes
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
   ```sh
   npm install npm@latest -g
   ```
@@ -118,23 +116,12 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
     - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
@@ -145,10 +132,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                
 Don't forget to give the project a star! Thanks again!
 
 1. @Oluwasetemi
@@ -180,7 +164,6 @@ Project Link: [https://github.com/frugalcodes/altschool_exam_fetch_github_repo](
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Github Api](https://docs.github.com/en/rest)
 
