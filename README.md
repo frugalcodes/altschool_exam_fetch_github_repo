@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/frugalcodes/altschool_exam_fetch_github_repo">
-    <img src="images/myappimg" alt="Logo" width="80" height="80">
+    <img src="./public/images/myappimg.png" alt="Logo" width="80" height="80">
   </a>
 
 This Project Use Github api to fetch the repository information of Frugalcodes
@@ -97,7 +97,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://docs.github.com/en/rest/overview]https://docs.github.com/en/rest/overview)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
