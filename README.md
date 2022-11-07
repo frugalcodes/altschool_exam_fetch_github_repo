@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/frugalcodes/altschool_exam_fetch_github_repo">
-    <img src="./public/images/myappimg.png" alt="Logo" width="80" height="80">
+    <img src="./public/images/myappimg.png" alt="Logo" width="100%" height="100%">
   </a>
 
 This Project Use Github api to fetch the repository information of Frugalcodes
