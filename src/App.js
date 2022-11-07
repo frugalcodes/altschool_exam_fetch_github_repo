@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css';
 import Home from './components/Home';
 import Results from './components/Results';
+import PageNotFound from './PageNotFound';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <Route path='/' exact element={<Home />} />
       
         <Route path='/:id'  exact element={<Results />}/>
+        <Route path='/*'  element={<PageNotFound />} />
        
         </Routes>
        
